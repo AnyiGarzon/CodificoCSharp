@@ -1,0 +1,13 @@
+D:\Prueba CODIFICO\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.exe
+D:\Prueba CODIFICO\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.deps.json
+D:\Prueba CODIFICO\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.runtimeconfig.json
+D:\Prueba CODIFICO\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.runtimeconfig.dev.json
+D:\Prueba CODIFICO\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.dll
+D:\Prueba CODIFICO\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.pdb
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.csprojAssemblyReference.cache
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.AssemblyInfoInputs.cache
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.AssemblyInfo.cs
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.csproj.CoreCompileInputs.cache
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.dll
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.pdb
+D:\Prueba CODIFICO\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.genruntimeconfig.cache
